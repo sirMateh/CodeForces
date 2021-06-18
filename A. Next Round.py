@@ -9,5 +9,3 @@ def main():
 	print(count)
 if __name__ == '__main__':
 	main()
-
-# +1 score if >= k_th
